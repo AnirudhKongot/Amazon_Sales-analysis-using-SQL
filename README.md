@@ -39,13 +39,12 @@ analysis techniques:
 5.	Find out the top 5 customers who made the highest profits.
 6.	Find out the average quantity ordered per category.
 7.	Identify the top 5 products that have generated the highest revenue.
-8.	Determine the top 5 products whose revenue has decreased compared to the
-9.	previous year.
-10.	Identify the highest profitable sub-category.
-11.	Find out the states with the highest total orders.
-12.	Determine the month with the highest number of orders.
-13.	Calculate the profit margin percentage for each sale (Profit divided by Sales), handle negative profit values.
-14.	Calculate the percentage contribution of each sub-category
+8.	Determine the top 5 products whose revenue has decreased compared to the previous year.
+9.	Identify the highest profitable sub-category.
+10.	Find out the states with the highest total orders.
+11.	Determine the month with the highest number of orders.
+12.	Calculate the profit margin percentage for each sale (Profit divided by Sales), handle negative profit values.
+13.	Calculate the percentage contribution of each sub-category
 
 
 ## Getting Started
