@@ -1,5 +1,6 @@
 # Amazon_Sales-analysis-using-SQL
 ![Banner Image](https://github.com/AnirudhKongot/Amazon_Sales-analysis-using-SQL/blob/main/amazon_india_wide_image-3.jpg)
+
 Conducted Amazon sales analysis using SQL to derive insights into sales performance, trends, and key contributing factors.
 In this project, we delve into analyzing sales data from Amazon to extract insights and trends that can help optimize sales strategies,
 understand customer behavior, and improve business operations.
